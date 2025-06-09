@@ -204,7 +204,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Pasha Khatami Hasibuan**
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/pashakhatamihsb/)
+- LinkedIn: [Pasha Khatami Hasibuan](https://www.linkedin.com/in/pashakhatamihsb/)
 
 ## 🙏 Acknowledgments
 
